@@ -1,3 +1,1 @@
-print('Hello World')
-
-print('Hello Bharath')
+Print("Hello Spcs")
